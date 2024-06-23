@@ -103,11 +103,11 @@
         <ul class="contact-list">
           <li class="contact-item">
             <ion-icon name="mail-outline"></ion-icon>
-            <a href="mailto:redstream001@gmail.com" class="contact-link">redstream001@gmail.com</a>
+            <a href="mailto:vaseemshamara.s@gmail.com" class="contact-link">vaseemshamara.s@gmail.com</a>
           </li>
           <li class="contact-item">
             <ion-icon name="call-outline"></ion-icon>
-            <a href="tel:+917558951351" class="contact-link">+91-7558-951-351</a>
+            <a href="tel:+917558951351" class="contact-link">+1(657)-799-8565</a>
           </li>
         </ul>
         <ul class="social-list">
@@ -184,7 +184,7 @@
             <h2 style="color: var(--royal-blue-light);">Contact Details</h2>
             <p class="hero-text">
             MOBILE: +91 7558 9513 51 | TELEPHONE: 0484-292674<br>
-            EMAIL : redstream001@gmail.com<br>
+            EMAIL : vaseemshamara.s@gmail.com<br>
             </p>
             <form action="" class="hero-form" method="POST">
               <input type="email" name="email_address" aria-label="email" placeholder="Your Email Address..." required
@@ -319,13 +319,13 @@
             <div class="item-icon">
               <ion-icon name="call-outline"></ion-icon>
             </div>
-            <a href="tel:+917052101786" class="footer-link">+91-7558-951-351</a>
+            <a href="tel:+917052101786" class="footer-link">+1(657)-799-8565</a>
           </li>
           <li class="footer-item">
             <div class="item-icon">
               <ion-icon name="mail-outline"></ion-icon>
             </div>
-            <a href="mailto:help@example.com" class="footer-link">redstream001@gmail.com</a>
+            <a href="mailto:help@example.com" class="footer-link">vaseemshamara.s@gmail.com</a>
           </li>
         </ul>
       </div>
